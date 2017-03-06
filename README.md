@@ -32,7 +32,7 @@ The following required functionality is complete:
 
 The following optional features are implemented:
 
-* [ ] Bonus Objective 1
+* [\*] Bonus Objective 1: Fixed css vulnterabilities in symmetric_encryption.php and sql injection vulnerability in find_agent_by_id
 * [ ] Bonus Objective 2
 * [ ] Bonus Objective 3
 * [ ] Bonus Objective 4
