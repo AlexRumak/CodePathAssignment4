@@ -38,6 +38,6 @@ The following optional features are implemented:
 
 
 ##User Story walkthrough:
-<img src='https://github.com/AlexanderRumak/CodePathAssignment3/blob/master/user_stories/assignment04.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/AlexanderRumak/CodePathAssignment4/blob/master/user_stories/assignment04.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 [https://github.com/AlexanderRumak/CodePathAssignment4/blob/master/user_stories/assignment04.gif]
 
