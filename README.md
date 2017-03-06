@@ -21,18 +21,18 @@ Signature:
 
 The following required functionality is complete:
 
-* [\*] Symmetric Encrypt/Decrypt.
-* [\*] Encrypted Message 1.
-* [\*] Generate Public-Private Keys.
-* [\*] Asymmetric Encrypt/Decrypt.
-* [\*] Create/Verify Signature.
-* [\*] Encrypted Message 2.
-* [\*] Agent Messages.
-* [\*] Identify the Double Agent.
+* [x] Symmetric Encrypt/Decrypt.
+* [x] Encrypted Message 1.
+* [x] Generate Public-Private Keys.
+* [x] Asymmetric Encrypt/Decrypt.
+* [x] Create/Verify Signature.
+* [x] Encrypted Message 2.
+* [x] Agent Messages.
+* [x] Identify the Double Agent.
 
 The following optional features are implemented:
 
-* [\*] Bonus Objective 1: Fixed css vulnterabilities in symmetric_encryption.php and sql injection vulnerability in find_agent_by_id
+* [x] Bonus Objective 1: Fixed css vulnterabilities in symmetric_encryption.php and sql injection vulnerability in find_agent_by_id
 * [ ] Bonus Objective 2
 * [ ] Bonus Objective 3
 * [ ] Bonus Objective 4
