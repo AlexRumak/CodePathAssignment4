@@ -17,6 +17,11 @@ Message:
 Signature:
 >DeIloBwnANTRmcbTLrvd9Oa/jP0ZYv4tw3udq2YF/p5J7UdyYkS+IpQGNmp6s3SJVAzjvboRZsmkYPseVpzMbXDAiInY6M3PKMKqXMSir/zGY40c4PZEEvW+uJKsdtEV6iI3+izlidq3+3AJnWEYUSWmV9WyRt1OBmBxAPorAR/OuXkgem+sIuLxhxWnPjDPEnx6KN9gAgkJLg3O0J4ggOAwg1rFXVOtjlE3MFoEPE47ihW7MKlNiPhuhB2bBK9B7D43z9V/mCr38Y/GbyChQJCdp1Kv6xbFeoiGaRafmn7SsGtSaI46SQM6HjBvxYV9n8Rqeyjzuzf5R8vs7nBoJg==
 
+The double agent was:
+Austin was a scapegoat set-up by Dark Shadow. The real double agent is Natasha.
+
+(My solution to these two can be seen in email 6 and email 5 of the document in the file toUnEncrypt).
+
 ##User Stories Implemented:
 
 The following required functionality is complete:
